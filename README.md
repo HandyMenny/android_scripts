@@ -30,3 +30,4 @@ Credits:
     @Legacy-Xperia: For updated patches and device trees
     @XperiaSTE: Update and maintain CyanogenMod 11 for Xperia 2012
     @HubDroid: For build server and OpenDelta system
+    @Agontuk:  Update and maintain CyanogenMod 12/12.1 for Xperia U
